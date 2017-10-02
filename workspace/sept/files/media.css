@@ -1,0 +1,300 @@
+@media screen and (max-width: 1290px) {
+	body, div{
+		transition: 0.5s;
+	} 
+.top .wrapper .top_inner .main_menu {
+    width: 50%;
+}
+.top .wrapper .top_inner .right_menu {
+    width: 21%;
+}
+.top .wrapper .top_inner .login_inner {
+    width: 14%;
+}
+.wrapper .main_container .sidebar .news_feed .feed_left {
+    width: 35%;
+}
+
+.wrapper .main_container .sidebar .news_feed .feed_right {
+    width: 62%;
+}
+
+.wrapper .main_container .content_col {
+    padding: 20px;
+    width: 71%;
+}
+.wrapper .main_container .content_col .content_header h1 {
+    font-size: 35px;
+}
+.wrapper .main_container .content_col .breadcumb .breadcumb_left{
+	width: 42%
+} 
+.wrapper .main_container .content_col .breadcumb .breadcumb_right {
+    width: 52%;
+}
+}
+
+@media screen and (max-width: 1024px) {
+	body, div{
+		transition: 0.5s;
+	} 
+   .wrapper {
+	width: 700px;
+}
+.top .wrapper .top_inner .main_menu {
+    width: 55%;
+}
+.top .wrapper .top_inner .right_menu {
+    width: 21%;
+}
+.top .wrapper .top_inner .login_inner {
+    width: 14%;
+}
+.sub_menu_wrapper .wrapper .submenu_inner ul li.first_sub a {
+    padding: 0 10px 0 0;
+}
+.sub_menu_wrapper .wrapper .submenu_inner ul li {
+    line-height: 50px;
+    margin: 0 0 0 5px;
+}
+.sub_menu_wrapper .wrapper .submenu_inner ul li a {
+    font-size: 12px;
+}
+.wrapper .main_container .sidebar {
+    display: none;
+}
+.wrapper .main_container .content_col {
+    width: 93%;
+}
+.top .wrapper .top_inner .right_menu {
+    display: none;
+}
+.top .wrapper .top_inner .login_inner {
+    width: 18%;
+}
+.wrapper .main_container .content_col .breadcumb {
+    font-size: 12px;
+}
+
+.wrapper .main_container .content_col .breadcumb .breadcumb_left p a {
+    font-size: 10px;
+}
+.wrapper .main_container .content_col .breadcumb .breadcumb_left {
+    width: 35%;
+}
+.wrapper .main_container .content_col .breadcumb .breadcumb_right {
+    width: 63%;
+}
+.wrapper .main_container .content_col .main_content .main_inner .product_inner .product_box h1 {
+    font-size: 24px;
+}
+
+
+}
+
+@media screen and (max-width: 770px) {
+.wrapper {
+    width: 550px;
+}
+.sub_menu_wrapper{
+	display: none;
+}
+.top .wrapper .top_inner .main_menu {
+    display: none;
+}
+.top .wrapper .top_inner .login_inner {
+    width: 25%;
+    float: right;
+}
+.top .wrapper .top_inner .mobile_menu {
+    display: inline-block;
+    height: 50px;
+    float: left;
+    position: relative;
+    z-index: 99999;
+}
+.mobile_menu_wrapper{
+	display: none;
+}
+.wrapper .banner_top {
+    margin: 10px 0;
+}
+.top .wrapper .top_inner .logo_wrapper .logo_inner{
+	background: #b00000 none repeat scroll 0 0;
+}
+.top .wrapper .top_inner .logo_wrapper {
+    margin: 0 0 0 -12px;
+}
+.wrapper .main_container .content_col .content_header {
+    display: block;
+    margin: 20px 15px;
+}
+.wrapper .main_container .content_col .content_header h1 {
+    font-size: 32px;
+    line-height: 35px;
+}
+.wrapper .main_container .content_col .breadcumb {
+    margin: 10px 20px;
+}
+.wrapper .main_container .content_col .breadcumb .breadcumb_left {
+    width: 80%;
+}
+.wrapper .main_container .content_col .breadcumb .breadcumb_right{
+	display: none;
+}
+.wrapper .main_container .content_col .main_content {
+    display: block;
+    margin: 20px;
+}
+.wrapper .main_container .content_col .main_content .main_inner .product_inner .product_box .product_inn .pro_desc a img {
+    width: 100%;
+}
+
+}
+
+
+@media screen and (max-width: 600px) {
+.wrapper {
+    width: 100%;
+}
+.mobile_menu_wrapper ul li {
+    margin: 0 0 0 20px;
+}
+.top .wrapper .top_inner .login_inner {
+    width: 35%;
+    float: right;
+}
+.wrapper .main_container .content_col .content_header h1 {
+    font-size: 22px;
+    line-height: 25px;
+}
+.wrapper .main_container .content_col .main_pic img {
+    width: 96%;
+}
+.wrapper .main_container .content_col .main_content .main_inner .red_box p {
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+}
+.wrapper .main_container .content_col .main_content .main_inner .product_inner .product_box h1 {
+    font-size: 13px;
+}
+.wrapper .main_container .content_col .main_content .main_inner .product_inner .product_box .product_inn .pro_bottle {
+    text-align: center;
+    width: 100%;
+}
+.wrapper .main_container .content_col .main_content .main_inner .product_inner .product_box .product_inn .pro_desc {
+    margin: 30px 0 0;
+    padding: 0 0 15px;
+    width: 100%;
+}
+.top .wrapper .top_inner .login_inner .login_inner_wrapper ul li{
+	margin: 0;
+}
+
+}
+
+
+@media screen and (max-width: 420px) {
+.wrapper {
+    width: 100%;
+}
+.wrapper .main_container .content_col{
+	padding: 0px;
+	width: 100%;
+}
+.wrapper .main_container .content_col .content_header h1 {
+    font-size: 19px;
+    line-height: 22px;
+}
+.wrapper .main_container .content_col .breadcumb .breadcumb_left{
+	width: 95%;
+}
+.wrapper .main_container .content_col .main_pic img {
+    width: 100%;
+}
+.wrapper .main_container .content_col .main_content .meta img {
+    display: block;
+    width: 30px;
+    margin: 0 auto;
+}
+.wrapper .main_container .content_col .main_content .meta p {
+    margin: 4px 0 0;
+    text-align: center;
+}
+
+}
+
+
+
+
+
+
+/* FACEBOOK COMMENTS */
+
+
+@media screen and (max-width: 1024px){
+.wrapper .facebook {
+    border-top: 1px dotted #ccc;
+    margin: 0;
+    width: 90%;
+}    
+.wrapper .facebook .fb_comments .prof_pic {
+    width: 10%;
+}
+.wrapper .facebook .fb_comments .prof_pic2 {
+    width: 10%;
+} 
+}
+
+@media screen and (max-width: 770px){
+.wrapper .facebook .fb_comments .prof_pic {
+    width: 12%;
+}
+.wrapper .facebook .fb_comments .prof_pic2 {
+    width: 15%;
+}
+.wrapper .facebook .fb_comments .comments_inner {
+    width: 83%;
+}
+}
+
+
+@media screen and (max-width: 600px){
+.wrapper .facebook .fb_comments .prof_pic {
+    width: 15%;
+}
+.wrapper .facebook .fb_comments .comments_inner {
+    width: 80%;
+}
+.wrapper .facebook .fb_comments .prof_pic {
+    width: 17%;
+}
+.wrapper .facebook .fb_comments .prof_pic2 {
+    width: 20%;
+}
+.wrapper .facebook .fb_comments .comments_inner {
+    width: 65%;
+}
+}
+
+@media screen and (max-width: 420px){
+.wrapper .facebook {
+    border-top: 1px dotted #ccc;
+    margin: 0;
+    width: 90%;
+}    
+.wrapper .facebook .top_facebook .box1, .wrapper .facebook .top_facebook .box2 {
+    width: 78%;
+}
+.wrapper .facebook .top_facebook .box2 {
+    display: none;
+}
+.wrapper .facebook .fb_comments .prof_pic {
+    width: 22%;
+}
+.wrapper .facebook .fb_comments .prof_pic2 {
+    width: 34%;
+}
+   
+}
